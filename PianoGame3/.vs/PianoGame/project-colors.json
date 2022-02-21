@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c95d6583-0c65-40a6-82a9-38ac8e1c59bc": {
+      "ProjectGuid": "c95d6583-0c65-40a6-82a9-38ac8e1c59bc",
+      "DisplayName": "PianoGame",
+      "ColorIndex": 0
+    },
+    "3ef72c07-1951-4701-a6b6-67a62c0d5cb3": {
+      "ProjectGuid": "3ef72c07-1951-4701-a6b6-67a62c0d5cb3",
+      "DisplayName": "SQL_TEST",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "기타 파일",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}
